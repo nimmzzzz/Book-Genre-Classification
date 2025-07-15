@@ -14,9 +14,15 @@ This project classifies book genres based on their title, description, and autho
 - Accuracy and loss visualization
 
 ## 📌 Tech Stack
-- Python  
-- Keras, TensorFlow  
-- Pandas, NumPy, Matplotlib  
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- TensorFlow (Keras)
+- Scikit-learn
+- Tokenizer, pad_sequences
+- EarlyStopping 
 
 ## 📌 Status
 Completed as an academic deep learning project.
